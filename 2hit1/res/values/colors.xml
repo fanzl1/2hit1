@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "background">#ff6ef0ff</color>
+    <color name = "line1">#ffffd4ef</color>
+    <color name = "line2">#ffffffff</color>
+    <color name = "player1_click">#ff8b0000</color>
+    <color name = "player2_click">#ff00008b</color>
+     <color name = "player1">#ffff0000</color>
+    <color name = "player2">#ff0000ff</color>
+    <color name = "text">#ff000000</color>
+</resources>
