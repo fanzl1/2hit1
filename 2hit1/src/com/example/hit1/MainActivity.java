@@ -8,6 +8,11 @@ import android.view.View.OnClickListener;
 import android.widget.ImageView;
 
 
+/**
+ * 
+ * @author fanzhenli
+ *
+ */
 public class MainActivity extends Activity {
 	
 	private ImageView iv;
